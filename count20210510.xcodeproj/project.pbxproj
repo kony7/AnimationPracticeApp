@@ -7,6 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9911CED626529112001BCCB3 /* loven.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9911CED226529112001BCCB3 /* loven.mp3 */; };
+		9911CED726529112001BCCB3 /* bachibachiyabana.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9911CED326529112001BCCB3 /* bachibachiyabana.mp3 */; };
+		9911CED826529112001BCCB3 /* gaogaonoegen.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9911CED426529112001BCCB3 /* gaogaonoegen.mp3 */; };
+		9911CED926529112001BCCB3 /* heyguysyabana.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9911CED526529112001BCCB3 /* heyguysyabana.mp3 */; };
+		9911CEDE26529133001BCCB3 /* klaxon.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9911CEDD26529133001BCCB3 /* klaxon.mp3 */; };
+		9911CEE6265294EC001BCCB3 /* piki.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9911CEE5265294EC001BCCB3 /* piki.mp3 */; };
+		9911CEF1265295C5001BCCB3 /* pika.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9911CEF0265295C5001BCCB3 /* pika.mp3 */; };
+		9911CEF92652960F001BCCB3 /* baaan.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 9911CEF82652960F001BCCB3 /* baaan.mp3 */; };
 		99135AAC2649435A00AEF154 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99135AAB2649435A00AEF154 /* AppDelegate.swift */; };
 		99135AAE2649435A00AEF154 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99135AAD2649435A00AEF154 /* SceneDelegate.swift */; };
 		99135AB02649435A00AEF154 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 99135AAF2649435A00AEF154 /* ViewController.swift */; };
@@ -35,6 +43,14 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9911CED226529112001BCCB3 /* loven.mp3 */ = {isa = PBXFileReference; explicitFileType = audio.mp3; path = loven.mp3; sourceTree = "<group>"; };
+		9911CED326529112001BCCB3 /* bachibachiyabana.mp3 */ = {isa = PBXFileReference; explicitFileType = audio.mp3; path = bachibachiyabana.mp3; sourceTree = "<group>"; };
+		9911CED426529112001BCCB3 /* gaogaonoegen.mp3 */ = {isa = PBXFileReference; explicitFileType = audio.mp3; path = gaogaonoegen.mp3; sourceTree = "<group>"; };
+		9911CED526529112001BCCB3 /* heyguysyabana.mp3 */ = {isa = PBXFileReference; explicitFileType = audio.mp3; path = heyguysyabana.mp3; sourceTree = "<group>"; };
+		9911CEDD26529133001BCCB3 /* klaxon.mp3 */ = {isa = PBXFileReference; explicitFileType = audio.mp3; path = klaxon.mp3; sourceTree = "<group>"; };
+		9911CEE5265294EC001BCCB3 /* piki.mp3 */ = {isa = PBXFileReference; explicitFileType = audio.mp3; path = piki.mp3; sourceTree = "<group>"; };
+		9911CEF0265295C5001BCCB3 /* pika.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = pika.mp3; sourceTree = "<group>"; };
+		9911CEF82652960F001BCCB3 /* baaan.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = baaan.mp3; sourceTree = "<group>"; };
 		99135AA82649435A00AEF154 /* count20210510.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = count20210510.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		99135AAB2649435A00AEF154 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		99135AAD2649435A00AEF154 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -104,6 +120,14 @@
 				99135AAF2649435A00AEF154 /* ViewController.swift */,
 				99135AB12649435A00AEF154 /* Main.storyboard */,
 				99135AB42649435C00AEF154 /* Assets.xcassets */,
+				9911CED326529112001BCCB3 /* bachibachiyabana.mp3 */,
+				9911CED426529112001BCCB3 /* gaogaonoegen.mp3 */,
+				9911CED526529112001BCCB3 /* heyguysyabana.mp3 */,
+				9911CEDD26529133001BCCB3 /* klaxon.mp3 */,
+				9911CED226529112001BCCB3 /* loven.mp3 */,
+				9911CEE5265294EC001BCCB3 /* piki.mp3 */,
+				9911CEF0265295C5001BCCB3 /* pika.mp3 */,
+				9911CEF82652960F001BCCB3 /* baaan.mp3 */,
 				99135AB62649435C00AEF154 /* LaunchScreen.storyboard */,
 				99135AB92649435C00AEF154 /* Info.plist */,
 			);
@@ -232,8 +256,16 @@
 			buildActionMask = 2147483647;
 			files = (
 				99135AB82649435C00AEF154 /* LaunchScreen.storyboard in Resources */,
+				9911CEF1265295C5001BCCB3 /* pika.mp3 in Resources */,
 				99135AB52649435C00AEF154 /* Assets.xcassets in Resources */,
 				99135AB32649435A00AEF154 /* Main.storyboard in Resources */,
+				9911CEE6265294EC001BCCB3 /* piki.mp3 in Resources */,
+				9911CED726529112001BCCB3 /* bachibachiyabana.mp3 in Resources */,
+				9911CED926529112001BCCB3 /* heyguysyabana.mp3 in Resources */,
+				9911CEDE26529133001BCCB3 /* klaxon.mp3 in Resources */,
+				9911CEF92652960F001BCCB3 /* baaan.mp3 in Resources */,
+				9911CED826529112001BCCB3 /* gaogaonoegen.mp3 in Resources */,
+				9911CED626529112001BCCB3 /* loven.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -439,6 +471,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = ZC69669R63;
 				INFOPLIST_FILE = count20210510/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
@@ -458,6 +491,7 @@
 				CODE_SIGN_STYLE = Automatic;
 				DEVELOPMENT_TEAM = ZC69669R63;
 				INFOPLIST_FILE = count20210510/Info.plist;
+				IPHONEOS_DEPLOYMENT_TARGET = 13.6;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
